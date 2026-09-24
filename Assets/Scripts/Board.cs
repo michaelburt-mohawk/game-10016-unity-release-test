@@ -4,6 +4,11 @@ using UnityEngine.Tilemaps;
 
 public class Board : MonoBehaviour
 {
+    /*
+     * These are some abritrary changes to differentiate 
+     * releases.
+     * */
+
     public TetrisManager tetrisManager;
     public Piece prefabPiece;
     public Tilemap tilemap;
